@@ -4,9 +4,10 @@ You can use the [editor on GitHub](https://github.com/Geraldxzx/caritahu/edit/gh
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Manfaat Kurma Di Bulan Puasa
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for [Image](https://asset.kompas.com/crops/SV5q4gPkeD8YJTuzO31BqTr9DEI=/192x128:1728x1152/750x500/data/photo/2021/03/06/60436a28b258b.jpg)
+![manfaat-buah-kurma-untuk-kesehatan-0-alodokter](https://user-images.githubusercontent.com/103211780/162280024-e0cf3e7a-b7f2-4441-b004-75f6aba86307.jpg)
+Kurma, adalah tanaman palma dalam genus Phoenix, buahnya dapat dimakan. Walaupun tempat asalnya tidak diketahui karena telah sejak lama dibudidayakan, kemungkinan tanaman ini berasal dari tanah sekitar Teluk Persia. Buahnya dijadikan makanan pokok di daerah Timur Tengah dan Afrika Utara. KLIK DISINI UNTUK BACA SELENGKAPNYA
 
 ```markdown
 Syntax highlighted code block
