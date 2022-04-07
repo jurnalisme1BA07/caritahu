@@ -1,15 +1,15 @@
-## CARI TAHU INFORMASI
+# Apa itu CARI TAHU INFORMASI?
 
-You can use the [editor on GitHub](https://github.com/Geraldxzx/caritahu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+CARITAHUINFORMASI adalah webisite untuk mencari informasi yang sedang hangat diperbincangkan. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Manfaat Kurma Di Bulan Puasa
+
+### MANFAAT KURMA DIBULAN PUASA
 
 ![manfaat-buah-kurma-untuk-kesehatan-0-alodokter](https://user-images.githubusercontent.com/103211780/162280024-e0cf3e7a-b7f2-4441-b004-75f6aba86307.jpg)
 
 
-Kurma, adalah tanaman palma dalam genus Phoenix, buahnya dapat dimakan. Walaupun tempat asalnya tidak diketahui karena telah sejak lama dibudidayakan, kemungkinan tanaman ini berasal dari tanah sekitar Teluk Persia. Buahnya dijadikan makanan pokok di daerah Timur Tengah dan Afrika Utara. [KLIK DISINI UNTUK BACA SELENGKAPNYA] (https://www.alodokter.com/manfaat-buah-kurma-untuk-kesehatan)
+Kurma, adalah tanaman palma dalam genus Phoenix, buahnya dapat dimakan. Walaupun tempat asalnya tidak diketahui karena telah sejak lama dibudidayakan, kemungkinan tanaman ini berasal dari tanah sekitar Teluk Persia. Buahnya dijadikan makanan pokok di daerah Timur Tengah dan Afrika Utara. [KLIK DISINI UNTUK BACA SELENGKAPNYA](https://www.alodokter.com/manfaat-buah-kurma-untuk-kesehatan)
 
 ```markdown
 Syntax highlighted code block
