@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ![manfaat-buah-kurma-untuk-kesehatan-0-alodokter](https://user-images.githubusercontent.com/103211780/162280024-e0cf3e7a-b7f2-4441-b004-75f6aba86307.jpg)
 
 
-Kurma, adalah tanaman palma dalam genus Phoenix, buahnya dapat dimakan. Walaupun tempat asalnya tidak diketahui karena telah sejak lama dibudidayakan, kemungkinan tanaman ini berasal dari tanah sekitar Teluk Persia. Buahnya dijadikan makanan pokok di daerah Timur Tengah dan Afrika Utara. KLIK DISINI UNTUK BACA SELENGKAPNYA
+Kurma, adalah tanaman palma dalam genus Phoenix, buahnya dapat dimakan. Walaupun tempat asalnya tidak diketahui karena telah sejak lama dibudidayakan, kemungkinan tanaman ini berasal dari tanah sekitar Teluk Persia. Buahnya dijadikan makanan pokok di daerah Timur Tengah dan Afrika Utara. [KLIK DISINI UNTUK BACA SELENGKAPNYA] (https://www.alodokter.com/manfaat-buah-kurma-untuk-kesehatan)
 
 ```markdown
 Syntax highlighted code block
