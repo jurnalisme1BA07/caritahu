@@ -1,9 +1,3 @@
-# Apa itu CARI TAHU INFORMASI?
-
-CARITAHUINFORMASI adalah webisite untuk mencari informasi yang sedang hangat diperbincangkan. 
-
-
-
 ### MANFAAT KURMA DIBULAN PUASA
 
 ![manfaat-buah-kurma-untuk-kesehatan-0-alodokter](https://user-images.githubusercontent.com/103211780/162280024-e0cf3e7a-b7f2-4441-b004-75f6aba86307.jpg)
